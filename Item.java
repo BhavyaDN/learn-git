@@ -9,6 +9,7 @@ public class Item
 
     private Integer key;
     private String name;
+    
     private float price;
     protected ItemType type;
 

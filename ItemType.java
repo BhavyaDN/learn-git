@@ -5,7 +5,5 @@ package com.exam;
  */
 public enum ItemType {
     SERVICE,
-
     MATERIAL;
-
 }
