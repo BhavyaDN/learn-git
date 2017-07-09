@@ -7,5 +7,6 @@ public class ServiceItem extends Item{
     public ServiceItem(Integer key, String name, float price) {
         super(key, name, price);
         type = ItemType.SERVICE;
+        
     }
 }
